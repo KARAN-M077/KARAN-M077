@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://karancse.netlify.app](https://karancse.netlify.app)
+- 👨‍💻 All of my projects are available at [https://karanm.vercel.app](https://karanm.vercel.app)
 
 - 💬 Ask me about **Reactjs , Node , MongoDB , JavaScript**
 
